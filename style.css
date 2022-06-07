@@ -87,5 +87,22 @@
  filter: grayscale(80%);
 }
 
-
 /*fine sesto esercizio*/
+
+/*settimo esercizio*/
+
+.ex-7-img{
+    width: 500px;
+    height: 300px;
+    transition: all 2s;
+}
+
+.ex-7-img:hover{
+ filter: grayscale(1);
+}
+
+.ex-7-img:hover{
+    filter: sepia(0.4);
+   }
+
+/*fine settimo esercizio*/
