@@ -124,3 +124,24 @@
 }
 
 /*fine ottavo esercizio*/
+
+/*nonoesercizio*/
+.ex-9-img{
+    width: 400px;
+    height: 200px;
+    margin: 40px 40px 50px 100px; 
+    transition: all 2s;
+}
+
+.ex-9-img:hover{
+filter: sepia(0.8);
+filter: grayscale(50%);
+width: 550px;
+height: 400px;
+margin:20px;
+border-radius: 30px;
+
+}
+
+
+/*fine nono esercizio*/
