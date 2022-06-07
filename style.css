@@ -140,8 +140,22 @@ width: 550px;
 height: 400px;
 margin:20px;
 border-radius: 30px;
-
 }
 
-
 /*fine nono esercizio*/
+
+/*decimo esercizio*/
+
+.ex-10-icon{
+    font-size: 70px;
+    animation: spin 1s infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(360deg);
+    }
+}
+
+/*fine decimo esercizio*/
+
