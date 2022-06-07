@@ -75,3 +75,17 @@
 }
 
 /*fine quinto esercizio*/
+
+/*sesto esercizio*/
+
+.ex-6-img{
+    width: 500px;
+    height: 300px;
+}
+
+.ex-6-img:hover{
+ filter: grayscale(80%);
+}
+
+
+/*fine sesto esercizio*/
