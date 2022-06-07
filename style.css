@@ -24,3 +24,54 @@
     width: 100%
 }
 /*fine secondo esercizio*/
+
+/*terzo esercizio*/
+.ex-3-square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: border-radius 1.5s;
+}
+
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+
+/*fine terzo esercizio*/
+
+/*quarto esercizio*/
+.ex-4-square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: opacity 1s;
+}
+
+.ex-4-square:hover{
+    opacity: 0;
+}
+
+/*fine terzo esercizio*/
+
+/*quinto esercizio*/
+.ex-5-square{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin: 20px;
+    transition: width, height, 2s;
+}
+
+.ex-5-square:hover{
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+}
+
+.ex-5-square:active{
+    margin: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+/*fine quinto esercizio*/
