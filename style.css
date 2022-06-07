@@ -148,7 +148,7 @@ border-radius: 30px;
 
 .ex-10-icon{
     font-size: 70px;
-    animation: spin 1s infinite;
+    animation: spin 1s linear infinite;
 }
 
 @keyframes spin {
@@ -159,3 +159,15 @@ border-radius: 30px;
 
 /*fine decimo esercizio*/
 
+/*undicesimo esercizio*/
+
+.ex-11-icon{
+    font-size: 70px;
+   
+}
+
+.ex-11-icon:hover{
+    animation: spin 1s linear infinite; 
+}
+
+/*fine undicesimo esercizio*/
